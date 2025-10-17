@@ -1,0 +1,95 @@
+MS_Word insert tab;
+
+1:table create kary first and then agr new record insert karna hai to 
+  last cell par cursor rakh kai just ap (tab) par click kary new record insert ho jaye ga 
+
+2:agr ap chahty hai record mai jo data hai wo dlete kary hum to us record ko first select karo aur phr 
+  (dlet) key ko press karo 
+3: now agr hum table kai part ko (records)ko  dlet karna chahy to pehly un sabhii rows ko select karo aur
+   (back SPace) key ko click karo  aur ok par click karo to wo sab dlet ho jae gai.
+    
+   	to agr humy data ko delet karna hai to Dlete key aur agr humy table ko dlet karna hai back space key
+
+4:To agr hum table par click kary to humy 2 tools mily gai 
+   i:Table design 
+   ii:Table Layout
+
+   Table Design mai , Table style mai ap ko bany banae styles mily gai taaki aap table ko decorate kar saky hai.
+   Table Style Options: mai hum apni marzi sai particular row aur columns ko design kar sakty hai.
+		i:Header Row : jo top waali row hotii hai hum us ko table row bolty hai.
+                               agr hum us header row waly check box ko uncheck kary to jo b table style mai sai
+                               design laghii hue thi us row mai first wali mai wo highlight khatam ho jae gii.
+		ii: First_Column: to same for first columns agr hum uny uncheck kary to wo design alag jo laghii 			          hue thi us colum mai wo hat jae gii.
+		iii:Total Row : to agr hum total row waly ko check kary gai to last waali row (record us mai alag) 
+				 Styling aa jae gii.
+                iv: First Column : to Agr hum first waaly column ko check kary to saara column heigh ligh ho jae    				   ga.
+		v:  LAst Column  : Same last wala ho jae ga.
+                vi: Banded row   : agr hum is ko check kary gai to ek row dark aur ek row undark 
+                vii:Banded Column: Same just column ek dark hoga aur ek nh hoga.
+
+					So banded means ek chory kai ek.
+
+--              Shading :        Now Agr humy table kai particular record kaa color pasand nh aa rha to hum                      			         shading waly tool mai jaa kar  manually b apply kar sakty hai.
+
+--             Boarders Group  : 
+                   (Border Style) par click kar kai koi b border select kary like double border to
+ 				ap jis pai b apply kary gai to waha us par apply hoga BORDER.
+			aur ap is kaa size b barha kar sakty hai like 6pt or 8pt. 
+			to ab ap jis par b click kary gai to boarding ka part apply ho jae ga .
+	--	Pen color: tool mai jaa kar aur agr ap ko pen color acha nh lag rha to ap border kai color b    		change kar sakty ho.
+	--	Border tool: aur ab agr ap ko boarder waaly tool mai jaye ap waha b no border ya all border wagera 
+                use kar sakty hai. based on jo b aap ko better lag rha ho ..
+
+
+
+Now 
+    Table Layout tab:
+     --Select tool : to is mai hum agr kisi b cell par cursor rakh kai, kisi b particular cell , row or column
+                     ko select karna chahy to hum select waly tool sai kar sakty hai. 
+
+     --View GridLines: to pehly ap table ki saari styling wagera ko khatam kary aur no border kary aur phr dekhy 
+                       humary pass jo data parhii hai humy maloom nh parhy ga ki hamary table kaha tak hai.
+                       to hum no border kar kai jab hum view gridlines par click kary gai to Grid view lines show
+			ho jae gii aur humy pata chal jae gaa ki kaha tak hamary table banii hue hai.
+     --- Properties : par ap jab click kary gai to is sai related allgiment wagera ki information saari mil jae gi 			ap ko .		
+     -- Draw table  : table sai hum apni marzii sai kahii pai b draw kar sakty hai.
+     --Eraser Tool : sai hum wapar hum us ko normal kar sakty hai.aur koi particular line b beach sai b erase kar 
+                     sakty hai hum.
+     --Dlete :       ab hum kia kary gai agr hum chahty hai poori ki poori row dlet kary ya poora column to dlet                   		     row aur dlet column par click kary gai. aur agr humy poori table dlet karni hai to dlet table 
+                     par click kary poori ki poori table dlet ho jae gii.
+
+			aur agr mujhy koi particular just cell dlet karna hai to us cell par cursor rakh kai dlet 
+			dlet cell par click karo to wo particular cell dlet ho jae ga. 
+    --Row and Columns : waly grup mau hum row aur column ko insert kar sakty hai . jaha cursor hoga us kai right                 			mai aur left mai b . 
+
+   --Merge Group : agr humy ooper koi row hai missal aur humy waha khuch title likhna hai aur sary columns 
+                   agr humy merge karny ho to hum merge tool par click kary gai 
+ 			aur ek blank row aa jae gii jaha hum title likh sakty hai.
+  --Split tool   :
+                 split cell:
+  	                agr hum chahaty hai ek cell ko hum do columns mai spilit kary , to us cell par cursor 
+                        rakho aur split cell par click 	aur agr hum chahaty hai humy 2 columns chaye us row mai        			aur ek column to  aur ok karu to wo us cell mai 2 columns aur ek row create kar dai ga. 
+				means ek cell 2 cells mai spilit ho gaya .
+		split table: agr hum table ko split karna chahaty hai to.
+                cell Size : agr ap kisi b cell par click kary gai to cell size mai ap ko har ek cell ki size 
+                            show hogii to agr ap kisi b particukar cell ko kitnii b size dena chahy to dai sakty                 			    hai using cell size.
+
+			 aur agr ap saari table ko select kar kai width waly tool mai size 3 assing karo ya 4 khuch b to saary cell ki size ho jae gii 3 , means sab ki same ho jae gii size .aur agr row ki size same rakhnii hai to height waly mai jaa kar 	height 3 size dai do par pehly select karo table ko  to saary rows ki size same ho jae gii . 
+
+
+--Autofit Tool.
+autofit content : mai hum content ko jitnii b ek particular cell mai space us words kai contents kai hisab sai need hogii to wo select kar kai saary row ko agr ap autofit content ko click karo gai to automatic wo utnii space dai de ga us ko .	 
+autofit window : mai screen kai size kai hisaab sai kar de ga set .
+fixed column width :  mai wo us row ki width ko fixed kar dai ga phr aap jitna b content us cell mai likhty jao height to barhtii jae gii but width fixed rahy gii. 
+
+   just us cell pai cursor rakh kai autofit width par click karo apply ho jae ga 
+
+ 		
+
+ 
+
+
+
+
+
+		
